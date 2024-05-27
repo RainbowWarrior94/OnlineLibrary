@@ -9,4 +9,5 @@ This website is called "BiblioConnect". Features that have been implemented in B
 - Saving borrowing and payment data to the database;
 - Generating and displaying an invoice in .x12 format (EDI standard);
 - Others.
+  
 BiblioConnect was developed using: HTML, CSS, Bootstrap framework, Laravel (PHP) framework. The database was populated with test data using factories and seeders. Below is a description of the service launch process and the main functions.
